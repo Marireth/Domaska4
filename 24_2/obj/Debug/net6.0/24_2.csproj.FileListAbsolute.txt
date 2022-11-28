@@ -1,0 +1,15 @@
+C:\Users\Sumixam\Desktop\Марина\Учеба ГБ\C#\DZ_24112022\24_2\bin\Debug\net6.0\24_2.exe
+C:\Users\Sumixam\Desktop\Марина\Учеба ГБ\C#\DZ_24112022\24_2\bin\Debug\net6.0\24_2.deps.json
+C:\Users\Sumixam\Desktop\Марина\Учеба ГБ\C#\DZ_24112022\24_2\bin\Debug\net6.0\24_2.runtimeconfig.json
+C:\Users\Sumixam\Desktop\Марина\Учеба ГБ\C#\DZ_24112022\24_2\bin\Debug\net6.0\24_2.dll
+C:\Users\Sumixam\Desktop\Марина\Учеба ГБ\C#\DZ_24112022\24_2\bin\Debug\net6.0\24_2.pdb
+C:\Users\Sumixam\Desktop\Марина\Учеба ГБ\C#\DZ_24112022\24_2\obj\Debug\net6.0\24_2.csproj.AssemblyReference.cache
+C:\Users\Sumixam\Desktop\Марина\Учеба ГБ\C#\DZ_24112022\24_2\obj\Debug\net6.0\24_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sumixam\Desktop\Марина\Учеба ГБ\C#\DZ_24112022\24_2\obj\Debug\net6.0\24_2.AssemblyInfoInputs.cache
+C:\Users\Sumixam\Desktop\Марина\Учеба ГБ\C#\DZ_24112022\24_2\obj\Debug\net6.0\24_2.AssemblyInfo.cs
+C:\Users\Sumixam\Desktop\Марина\Учеба ГБ\C#\DZ_24112022\24_2\obj\Debug\net6.0\24_2.csproj.CoreCompileInputs.cache
+C:\Users\Sumixam\Desktop\Марина\Учеба ГБ\C#\DZ_24112022\24_2\obj\Debug\net6.0\24_2.dll
+C:\Users\Sumixam\Desktop\Марина\Учеба ГБ\C#\DZ_24112022\24_2\obj\Debug\net6.0\refint\24_2.dll
+C:\Users\Sumixam\Desktop\Марина\Учеба ГБ\C#\DZ_24112022\24_2\obj\Debug\net6.0\24_2.pdb
+C:\Users\Sumixam\Desktop\Марина\Учеба ГБ\C#\DZ_24112022\24_2\obj\Debug\net6.0\24_2.genruntimeconfig.cache
+C:\Users\Sumixam\Desktop\Марина\Учеба ГБ\C#\DZ_24112022\24_2\obj\Debug\net6.0\ref\24_2.dll
